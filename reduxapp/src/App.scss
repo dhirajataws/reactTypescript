@@ -1,0 +1,29 @@
+:root {
+    --theme-primary-color: #AF98F8;
+  }
+  
+  body {
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+  }
+  
+  main.row {
+    margin-right: 0;
+  }
+  
+  h1 {
+    font-family: Poppins,sans-serif;
+    font-weight: 500;
+    margin-left: 10px;
+  }
+  
+.container{
+    display:flex;
+    flex-direction:column;
+}
+
+header{
+    display:flex;
+    justify-content: center;
+    background-color: var(--theme-primary-color);
+}

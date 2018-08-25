@@ -1,0 +1,10 @@
+main {
+  margin: 0 0; }
+  main.row {
+    flex: 1; }
+
+.screen-container {
+  display: flex; }
+
+div {
+  display: flex; }
